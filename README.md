@@ -1,2 +1,2 @@
 # My_project
-This repository is  develop the test case
+This repository is to develop the test case
